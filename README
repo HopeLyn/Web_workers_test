@@ -1,0 +1,3 @@
+这个工程是用来学习测试 web workers 的。
+
+clone 以后，在目录下使用 `python -m SimpleHTTPServer 8000` 在本地启用服务即看到效果(因为 chrome 不允许 ftp 协议的 work 访问)。
